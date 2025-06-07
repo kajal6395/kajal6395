@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kajal Thakur</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#f39c12;">Kajal Thakur</span>!</h1>
 <h3 align="center">A passionate Coder from India</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajal6395&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajal6395&theme=highcontrast" />
+</p>
 
 <img src="https://raw.githubusercontent.com/kajal6395/kajal6395/main/assets/developer.gif" alt="Developer GIF" width="100%" />
 
@@ -12,10 +20,11 @@
 
 
 <p align="left">
-  <a href="www.linkedin.com/in/kajal-thakur-b45b5623a" target="_blank">
+  <a href="https://www.linkedin.com/in/kajal-thakur-b45b5623a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
 
 
 
