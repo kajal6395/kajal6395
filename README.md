@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kajal Thakur</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<img src="https://raw.githubusercontent.com/kajal6596/kajal6596/main/assets/developer.gif" alt="Developer GIF" width="100%" />
+<img src="https://raw.githubusercontent.com/kajal6395/kajal6395/main/assets/developer.gif" alt="Developer GIF" width="100%" />
 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal6596&label=Profile%20views&color=0e75b6&style=flat" alt="kajal6596" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal6595&label=Profile%20views&color=0e75b6&style=flat" alt="kajal6595" /> </p>
 
 
 <p align="left">
