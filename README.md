@@ -6,15 +6,15 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal6595&label=Profile%20views&color=0e75b6&style=flat" alt="kajal6595" /> </p>
 
 
 <p align="left">
-<!--   <a href="https://www.linkedin.com/in/kajal-thakur-b45b5623a" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+  <a href="https://www.linkedin.com/in/kajal-thakur-b45b5623a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
